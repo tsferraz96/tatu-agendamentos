@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AGENDAMENTO DE MANUTENÇÃO</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <H1>TATU AGENDAMENTOS</H1>
+        
+    <div class="agendamento">PREENCHA OS DADOS A SEGUIR:
+
+        <h3>SOLICITANTE</h3>
+        <input type="text">
+        <h3>SETOR</h3>
+        <input type="text">
+        <h3>DATA DE MANUTENÇÃO</h3>
+        <input type="date" name="" id="">
+        <h3>HORÁRIO DE MANUTENÇÃO</h3>
+        <input type="time" name="" id="">
+    
+    </div><br>
+
+    <button>FINALIZAR ATENDIMENTO <a href="index.html2"></a></button>
+
+    <div class="novo_agendamento">NOVO AGENDAMENTO
+        <H4>DESEJO REALIZAR OUTRO AGENDAMENTO</H4>
+        <input type="checkbox" name="" id="">
+
+    </div><br>
+
+    
+    
+
+</body>
+</html>

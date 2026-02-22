@@ -1,0 +1,61 @@
+body {
+
+    background-image: url('img/fundo.jpg');
+    background-size: cover;
+    background-attachment: fixed; /* efeito parallax leve */
+    background-position: center;
+}
+h1 {
+    text-align: center;
+    background-position: center;
+    border-width: 5px;
+    border-style: solid;
+    border-color:black;
+    margin: 10px auto;
+    height: 50px, 50px;
+    width: 500px;
+    text-align: center;
+    background-color: beige;
+}
+.titulo {
+    text-align: center;
+}
+.agendamento{
+
+    width: 300px;
+    background-position: left;
+    border-width: 5px;
+    border-style: solid;
+    border-color:black;
+    padding: 10px;
+    margin: 10px;
+    height: 50px, 50px;
+    text-align: left;
+    background-color: beige;
+    
+    
+}
+.agradecimento{
+
+    margin: 50px;
+    padding: 20px;
+    text-align: left;
+}
+.novo_agendamento {
+     width: 300px;
+    background-position: left;
+    border-width: 5px;
+    border-style: solid;
+    border-color:black;
+    padding: 10px;
+    margin: 10px;
+    height: 50px, 50px;
+    text-align: left;
+    background-color: beige;
+}
+.logo {
+    position: fixed;  
+    bottom: 0;        
+    right: 0;         
+    width: 80px;      
+}
